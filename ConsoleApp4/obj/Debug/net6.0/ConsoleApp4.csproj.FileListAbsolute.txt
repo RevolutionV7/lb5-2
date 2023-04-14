@@ -1,0 +1,15 @@
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\refint\ConsoleApp4.dll
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache
+D:\Sosnovskiy\OOP\lb5\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
